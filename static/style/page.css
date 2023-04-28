@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(90deg, #211A1A 6%, #211A1A 21%, #211A1A 50%, #211A1A 56%, #211A1A 72%, #211A1A 93%, #211A1A 100%, #4A4949 100%);
+}
+
+.text1 {
+    color: azure;
+}
+
+.home1 {
+    text-decoration: none;
+    color:rgb(143, 143, 143);
+    text-align: left;
+    position: absolute;
+    left: 0;
+}

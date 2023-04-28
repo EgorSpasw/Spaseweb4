@@ -1,0 +1,33 @@
+.navbar-brand {
+    color: rgb(rgb(255, 0, 0));
+}
+
+body {
+    background: linear-gradient(90deg, #211A1A 6%, #211A1A 21%, #211A1A 50%, #211A1A 56%, #211A1A 72%, #211A1A 93%, #211A1A 100%, #4A4949 100%);
+}
+
+.card1 {
+ display: inline-block;
+
+}
+
+.tg1 {
+    text-decoration: none;
+}
+
+.tg1{
+    text-decoration: none;
+    color:rgb(143, 143, 143)
+}
+
+.cz-1 {
+    text-decoration:none;
+    color:rgb(143, 143, 143);
+    position:absolute;
+    left:120px;
+}
+
+.jagolovok {
+    margin-top:25px;
+}
+
